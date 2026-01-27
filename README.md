@@ -1,6 +1,14 @@
-# grafana-sql
+# Trabalahndo com banco de dados
 
-Projeto com PostgreSQL + Grafana
+📚 Cursos gratuitos para começar:
+
+🔗 Modelagem de Dados: https://lnkd.in/egvmw6Vw
+
+🔗 Implementando Banco de Dados: https://lnkd.in/eWt5ejVu
+
+🔗 Administrando Banco de Dados: https://lnkd.in/eWtya_tm
+
+**Projeto com PostgreSQL + Grafana**
 
 ![Grafana](./images/image.png)
 
