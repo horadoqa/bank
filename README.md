@@ -135,10 +135,54 @@ E use visualização **Time series** 📈
 
 ---
 
-Se quiser, posso:
+Claro! Aqui vai uma versão completa, clara e bem “padrão GitHub” para essa seção — pode colar direto no README 👇
 
-* Criar um **init.sql** pra subir tabelas automaticamente
-* Montar um **dashboard pronto**
-* Ajudar a contar registros por status, tipo, usuário etc.
+---
 
-Só dizer 😄
+## 7️⃣ Contribuições
+
+Contribuições são mais do que bem-vindas — são incentivadas 🚀
+Se você quer ajudar a melhorar este projeto, siga os passos abaixo:
+
+### 🛠️ Como contribuir
+
+1. **Faça um fork** deste repositório
+2. **Clone o fork** para sua máquina:
+
+   ```bash
+   git clone https://github.com/horadoqa/grafana-sql.git
+   ```
+3. **Crie uma branch** para sua contribuição:
+
+   ```bash
+   git checkout -b minha-contribuicao
+   ```
+4. **Faça suas alterações**, mantendo o padrão de código e boas práticas do projeto
+
+Utilize a convenção de nomes (`feature/`, `fix/`, `docs/`).
+
+5. **Commit suas mudanças** com uma mensagem clara:
+
+   ```bash
+   git commit -m "Descrição objetiva da alteração"
+   ```
+6. **Envie para o seu fork**:
+
+   ```bash
+   git push origin minha-contribuicao
+   ```
+7. **Abra um Pull Request (PR)** explicando o que foi feito e, se possível, o motivo da mudança
+
+### 💡 Dicas importantes
+
+* Verifique se já **existe uma issue** relacionada antes de abrir uma nova
+* Se for uma mudança grande, **abra uma issue antes** para discutir a ideia
+* Mantenha o código limpo, organizado e bem documentado
+* Seja respeitoso(a) nas interações — colaboração saudável é essencial ❤️
+
+### 🐛 Encontrou um problema?
+
+Fique à vontade para **abrir uma issue** descrevendo o bug, melhoria ou sugestão. Quanto mais detalhes, melhor!
+
+---
+
