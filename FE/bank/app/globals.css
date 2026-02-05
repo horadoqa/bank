@@ -12,5 +12,13 @@ body {
 }
 
 main {
-  color: var(--fontcolor);
+  min-height: calc(100vh - 60px);
+  padding: 2rem;
+  background-color: #198754;
+}
+
+/* Garante que o html, body e main ocupem 100% da altura */
+html, body, main, #__next {
+  height: 100%;
+  margin: 0;
 }

@@ -1,22 +1,12 @@
-import Link from 'next/link'
+import styles from './Home.module.css'
 
-export function Menu() {
+export default function HomePage() {
   return (
-    <nav>
-      <Link href="/">Home</Link>
-      <Link href="/cadastro">Cadastro</Link>
-      <Link href="/busca">Busca</Link>
-    </nav>
-  )
-}
-
-
-// app/page.tsx
-export default function Home() {
-  return (
-    <main>
-      <h1>Home</h1>
-      <p>Bem-vindo ao sistema</p>
+    <main className={styles.container}>
+      <h1 className={styles.title}>BANK</h1>
+      <p className={styles.subtitle}>
+        Cadastre, consulte e gerencie candidatos
+      </p>
     </main>
   )
 }
